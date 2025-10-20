@@ -13,6 +13,14 @@ a{
     color: #ef6d24
 }
 
+p{
+    color: #775548;
+}
+
+.atencion{
+    font-weight: bold;
+}
+
 .alquileres-lista a{
     font-weight: bold;
 }
