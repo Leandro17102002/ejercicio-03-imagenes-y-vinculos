@@ -1,0 +1,57 @@
+body{
+    background-color: #edece9;
+    font-family: Verdana, Arial, sans-serif;
+    color: #be8e64
+}
+
+img{
+    height: 100%;
+    width: 100%;    
+}
+
+a{
+    color: #ef6d24
+}
+
+.alquileres-lista a{
+    font-weight: bold;
+}
+
+h1{
+    color: #775548
+}  
+
+h2{
+    color: #e1d4cf;
+    background-color: #775548;
+}
+
+.list-duchas{
+    color: #775548;
+    font-weight: bold;
+}
+
+.por-que-h2{
+    color: #d8b03b;
+}
+
+b{
+    color: #ed7d34;
+}
+.list-nota1{
+    color: #5eb4ca;
+    font-weight: bold;
+}
+
+.list-nota2{
+    color: red ;
+    font-weight: bold;
+}
+
+ol{
+    color: #775548;
+}
+.list-3{
+    color: #775548;
+    font-weight: bold;
+}
